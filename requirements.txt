@@ -1,0 +1,6 @@
+streamlit>=1.33
+plotly>=5.22
+numpy>=1.26
+scikit-image>=0.22
+scipy>=1.11
+kaleido>=0.2.1
